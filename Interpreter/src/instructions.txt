@@ -1,0 +1,9 @@
+The Interpretor up until this point has been written in Java.
+
+When testing, for us it is done only in the console as we don't have Java installed
+
+Instead when submitting, we instead comment our filewriter from writing directly to the output.txt
+to writing it through args[] 
+
+For the TA, you should still be able to run it as intended in the terminal. 
+ScannerPT1 is where our main is located. 
